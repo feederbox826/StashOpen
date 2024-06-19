@@ -1,0 +1,9 @@
+{
+    "players": {
+        "vlc": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+        "mpv": "C:\\ProgramData\\chocolatey\\lib\\mpv.install\\tools\\mpv.exe"
+    },
+    "paths": {
+        "/data/Porn": "Y:\\data\\porn"
+    }
+}
