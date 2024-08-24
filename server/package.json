@@ -1,6 +1,7 @@
 {
 	"main": "server.js",
 	"type": "module",
+	"license": "MIT",
 	"dependencies": {
 		"@fastify/cors": "^9.0.1",
 		"axios": "^1.7.2",
